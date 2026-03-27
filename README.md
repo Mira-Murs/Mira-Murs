@@ -1,16 +1,15 @@
-## Hi there 👋
+# Привет! Я Мира 👋
 
-<!--
-**Mira-Murs/Mira-Murs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Образование
+I'm studying at @SENATOROVAI
 
-Here are some ideas to get you started:
+### 👩‍ Обо мне
+Я начала свой путь в Data Science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔗 Полезные ссылки
+- **Kaggle:** [https://www.kaggle.com/miramurs](https://www.kaggle.com/miramurs)
+- **ODS.ai:** [https://ods.ai/users/n259901fb0c4e](https://ods.ai/users/n259901fb0c4e)
+
+### 📊 Rapidfire
+- 🌱 Сейчас изучаю Data Science и математику
+- 💬 Давайте изучать Data Science и ML
