@@ -1,8 +1,5 @@
 # Привет! Я Мира 👋
 
-### 🎓 Образование
-I'm studying at @SENATOROVAI
-
 ### 👩‍ Обо мне
 Я начинаю свой путь в мир Data Science.
 
